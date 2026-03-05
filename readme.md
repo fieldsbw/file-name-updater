@@ -1,0 +1,3 @@
+A simple python script to update the file names for a batch of files.
+
+I most commonly use this for updating the file names on staff/faculty profile pictures that include a specific string of characters that need to be removed before we upload them to profiles.iu.edu. In the case of IU Northwest, they include "_w" at the end of each picture's file name, and IU Southeast does something similar with their profile pictures.
